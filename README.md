@@ -37,7 +37,7 @@ If you want to get in touch, fell free to contact me at:
 
 ---
 
-Made with ❤️ by [Fernanda Silva][blog 
+Made with ❤️ by [Fernanda Silva][blog] 
 
 [linkedin]: https://www.linkedin.com/in/f-ernanda/
 [twitter]: https://twitter.com/f_ernandasilva
