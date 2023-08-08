@@ -31,7 +31,7 @@ Distributed under the MIT License. See [LICENSE](./LICENSE) for more information
 ## 🌟 Contact
 Hi :D
 
-If you want to get in touch, fell free to contact me at:
+If you want to get in touch, feel free to contact me at:
 
 [LinkedIn][linkedin] | [Twitter][twitter] 
 
