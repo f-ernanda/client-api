@@ -1,44 +1,40 @@
-<h1 align="center">Client API</h1>
-<p align="center">A complete client CRUD API</p>
-<p align="center"><small> 🚀  Finished  🚀</small></p>
+# Client API
 
-<p align="center">
-    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/f-ernanda/client-api?color=CB504C">
-    <img alt="Repository size" src="https://img.shields.io/github/repo-size/f-ernanda/client-api?color=157075">
-    <img alt="License" src="https://img.shields.io/github/license/f-ernanda/client-api?color=cb4c83">
-    <img alt="Commits per month" src="https://img.shields.io/github/commit-activity/m/f-ernanda/client-api?color=574ccb">
-    <img alt="Last commit" src="https://img.shields.io/github/last-commit/f-ernanda/client-api?color=70cb4c">
-    <img alt="Top language" src="https://img.shields.io/github/languages/top/f-ernanda/client-api?color=cb744c">
-</p>
-
-<p align="center">
-    <a href="#-about-the-project">About the project</a> •
-    <a href="#-license">License</a> •
-    <a href="#-contact">Contact</a> 
-</p>
+A simple CRUD API built as a backend learning exercise.
 
 ## 💻 About the project
-This client API contains a complete CRUD where you can:
-- query clients per page;
-- query a client by id;
-- insert a new client;
-- update a saved client;
-- and delete a saved client.
+
+This project is a basic client management API that implements a complete CRUD (Create, Read, Update, Delete) flow.
+
+In practice, it allows you to:
+- list clients with pagination
+- retrieve a client by ID
+- create new clients
+- update existing clients
+- delete saved clients
+
+This repository primarily exists as a study project, focusing on understanding backend fundamentals.
+
+## 🎯 What I learned
+
+While working on this project, my main focus was on:
+
+- designing a simple CRUD API
+- structuring routes and controllers
+- handling basic data persistence
+- understanding common backend patterns
+
+It was an important step in getting more comfortable with backend concepts and API design.
+
+## 🌟 Current state
+
+- Project status: **finished** 🎉
+- Next steps: no planned next steps.
 
 ## 📃 License
-Distributed under the MIT License. See [LICENSE](./LICENSE) for more information.
 
-## 🌟 Contact
-Hi :D
-
-If you want to get in touch, feel free to contact me at:
-
-[LinkedIn][linkedin] | [Twitter][twitter] 
+This project is licensed under the MIT License. See [LICENSE](./LICENSE) for more information.
 
 ---
 
-Made with ❤️ by [Fernanda Silva][blog] 
-
-[linkedin]: https://www.linkedin.com/in/f-ernanda/
-[twitter]: https://twitter.com/f_ernandasilva
-[blog]: https://f-ernanda.hashnode.dev/
+🌱
