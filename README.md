@@ -7,6 +7,7 @@ A simple CRUD API built as a backend learning exercise.
 This project is a basic client management API that implements a complete CRUD (Create, Read, Update, Delete) flow.
 
 In practice, it allows you to:
+
 - List clients with pagination
 - Retrieve a client by ID
 - Create new clients
