@@ -7,11 +7,11 @@ A simple CRUD API built as a backend learning exercise.
 This project is a basic client management API that implements a complete CRUD (Create, Read, Update, Delete) flow.
 
 In practice, it allows you to:
-- list clients with pagination
-- retrieve a client by ID
-- create new clients
-- update existing clients
-- delete saved clients
+- List clients with pagination
+- Retrieve a client by ID
+- Create new clients
+- Update existing clients
+- Delete saved clients
 
 This repository primarily exists as a study project, focusing on understanding backend fundamentals.
 
@@ -19,10 +19,10 @@ This repository primarily exists as a study project, focusing on understanding b
 
 While working on this project, my main focus was on:
 
-- designing a simple CRUD API
-- structuring routes and controllers
-- handling basic data persistence
-- understanding common backend patterns
+- Designing a simple CRUD API
+- Structuring routes and controllers
+- Handling basic data persistence
+- Understanding common backend patterns
 
 It was an important step in getting more comfortable with backend concepts and API design.
 
